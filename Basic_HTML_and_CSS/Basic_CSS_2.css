@@ -1,0 +1,11 @@
+p {
+  text-shadow: 2px 2px 8px #be0505, 2px 2px 8px #af1313;
+  color: #105a2d;
+}
+
+body {
+  text-shadow: 2px 2px 8px #be0505, 2px 2px 8px #af1313;
+  color: #105a2d;
+  font-family: "Courier New", Courier, monospace;
+  font-size: larger;
+}
