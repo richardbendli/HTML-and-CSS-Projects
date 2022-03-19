@@ -1,0 +1,28 @@
+header {
+  background-color: #9be867;
+  text-align: center;
+  height: 100px;
+}
+body {
+  background-color: #ffffff;
+}
+nav {
+  text-align: right;
+}
+h2 {
+  color: #dfe0e2;
+  font-family: "Courier New", Courier, monospace;
+  position: absolute;
+  left: 750px;
+  top: 5px;
+}
+img {
+  display: block;
+  margin: auto;
+}
+footer {
+  text-align: center;
+  background-color: #9be867;
+  color: white;
+  height: 100px;
+}
